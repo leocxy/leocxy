@@ -10,4 +10,3 @@
 
 ![leocxy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leocxy&theme=calm&show_icons=true&hide_border=true&layout=compact)
 
-![leocxy's Stats](https://github-readme-stats.vercel.app/api?username=leocxy&theme=calm&show_icons=true&hide_border=true&count_private=true)
