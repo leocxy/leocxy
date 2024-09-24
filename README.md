@@ -10,4 +10,8 @@
 
 ![leocxy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leocxy&theme=calm&show_icons=true&hide_border=true&layout=compact)
 
-[<img src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white" />](https://www.credly.com/badges/0cb7f33a-7ca4-4770-8796-450829fc6450/public_url)
+
+- [Solution Planning Fundamentals: Verified Skill Badge
+](https://www.credly.com/badges/0cb7f33a-7ca4-4770-8796-450829fc6450/public_url)
+- [Shopify Development Fundamentals: Verified Skill Badge
+](https://www.credly.com/badges/b2d3e4e9-f2a0-4757-a8a7-6925b042cb8f/public_url)
